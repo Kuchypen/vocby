@@ -84,4 +84,4 @@ We may update this Privacy Policy from time to time. Any changes will become eff
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
 
-Email: vocby.app@gmail.com`
+Email: vocby.app@gmail.com
