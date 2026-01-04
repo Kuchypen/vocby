@@ -1,12 +1,12 @@
 
-##Privacy Policy
+Privacy Policy
 
 Last updated: December 29, 2025
 
 This Privacy Policy explains how vocby (“the App”, “we”, “us”, or “our”) collects,
 uses, and protects your personal data when you use our mobile application.
 
-##1. Information We Collect
+1. Information We Collect
 
 We may collect the following categories of information:
 
@@ -16,7 +16,7 @@ We may collect the following categories of information:
 - Usage data related to interactions with App features;
 - Push notification tokens required to deliver notifications.
 
-##2. How We Use Your Information
+2. How We Use Your Information
 
 We use your information to:
 
@@ -27,7 +27,7 @@ We use your information to:
 - improve performance, stability, and user experience;
 - ensure security and prevent misuse or unauthorized access.
 
-##3. Legal Basis for Processing (GDPR)
+3. Legal Basis for Processing (GDPR)
 
 If you are located in the European Union, we process personal data based on one or more of the following legal bases:
 
@@ -35,7 +35,7 @@ If you are located in the European Union, we process personal data based on one 
 - the performance of a contract (providing the App and its features);
 - our legitimate interests, such as improving and securing the App.
 
-##4. Third-Party Services
+4. Third-Party Services
 
 We use trusted third-party services to operate the App, including:
 
@@ -45,7 +45,7 @@ We use trusted third-party services to operate the App, including:
 
 These third-party services may process certain technical data or device identifiers solely for the purposes of providing their respective services and in accordance with their own privacy policies and applicable data protection laws.
 
-##5. Advertising and Consent
+5. Advertising and Consent
 
 The App may display advertisements provided by third-party ad networks such as Google AdMob.
 
@@ -53,15 +53,15 @@ If you are located in the European Union, we will request your consent for perso
 
 On iOS devices, the App may also request permission to track activity across apps and websites in accordance with Apple’s App Tracking Transparency (ATT) framework. Granting or denying this permission does not affect your ability to use the App.
 
-##6. Data Retention
+6. Data Retention
 
 We retain personal data only for as long as necessary to provide the App and fulfill the purposes described in this Privacy Policy, unless a longer retention period is required by law.
 
-##7. Account Deletion and Data Removal
+7. Account Deletion and Data Removal
 
 You may delete your account and associated personal data at any time directly within the App. Upon deletion, your personal data will be permanently removed from our active systems, except where retention is required by law or for legitimate purposes such as security, fraud prevention, or backup integrity.
 
-##8. Your Rights (GDPR)
+8. Your Rights (GDPR)
 
 If you are located in the European Union, you have the right to:
 
@@ -72,7 +72,7 @@ If you are located in the European Union, you have the right to:
 
 You may exercise these rights by contacting us at the email address provided below.
 
-##9. Children’s Privacy
+9. Children’s Privacy
 
 The App is not intended for children under the age of 13. We do not knowingly collect personal data from children under 13. If we become aware that such data has been collected, we will take steps to delete it as soon as possible.
 
